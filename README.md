@@ -20,8 +20,8 @@ This limits human error, saves time, and follows AWS security rules.
 
 ### What happens
 
-1. **Julia** is a member of the **Billing** group.
-2. She signs in once in the **SSO Portal**.
+1. **Juan** is a member of the **Billing** group.
+2. He signs in once in the **SSO Portal**.
 3. IAM Identity Center gives her a permission set that allows only billing pages.
 4. The same session works in every AWS account: General, Production, Development.
 5. An external identity source (for example Azure AD) can manage users and groups.
