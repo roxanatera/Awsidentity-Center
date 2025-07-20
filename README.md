@@ -1,4 +1,4 @@
-# Awsidentity-Center
+
 # IAM Identity Center – Secure AWS Account Management
 
 This project shows how to secure many AWS accounts with **IAM Identity Center** (the old name was AWS SSO).
